@@ -1,0 +1,22 @@
+{
+  "name": "@ensdomains/verify-ratification",
+  "version": "1.0.0",
+  "description": "Verify ENS constitution ratification votes",
+  "main": "verify.js",
+  "scripts": {
+    "verify": "node verify.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ensdomains/verify-ratification.git"
+  },
+  "author": "Nick Johnson <nick@ens.domains>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ensdomains/verify-ratification/issues"
+  },
+  "homepage": "https://github.com/ensdomains/verify-ratification#readme",
+  "devDependencies": {
+    "ethers": "^5.5.1"
+  }
+}
